@@ -1,0 +1,44 @@
+
+nav ul li { 
+    display: inline-block; 
+  margin-left:auto;
+    justify-content: left;
+    text-align: left;
+    
+     
+   
+  
+   
+  }
+  nav ul li{
+
+     margin: 10PX;
+    
+   
+  }
+  .produit{
+color: blue;
+
+background-image : url(image/fleur.png) ;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+min-height: 100vh;
+  }
+
+   
+  header {
+    height: 50px;
+    background-color: rgb(243, 184, 200);
+   border:  5px ;
+
+  }
+  @media screen and  (max-width:1200px ) {
+    
+    
+  }
+  .footer
+ {
+   justify-content: center;
+   color: brown;
+   text-align: center;
+ }
